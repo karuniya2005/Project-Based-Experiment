@@ -42,15 +42,28 @@ From the HDL code given formulate the correct code  to divert the traffic to pa
    
 **Program:**
 
-/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
+**Program to implement the given logic function and to verify its operations in quartus using Verilog programming.**
 
-Developed by: RegisterNumber:*/
+**Developed by:KARUNIYA M**
+
+**RegisterNumber:212223240068**
+
+![332012653-8418fb23-7ab9-4af3-9975-7f874dd1f26c](https://github.com/karuniya2005/Project-Based-Experiment/assets/161425769/35fd6b9b-e5cb-4ce7-978a-2749496c28d3)
+
+![332012753-c498c5d7-e1c6-49bd-b47f-60ada74530a3](https://github.com/karuniya2005/Project-Based-Experiment/assets/161425769/140854a6-9a35-4ec3-9aeb-b5d5d4183963)
+
 
 **RTL Schematic**
 
+![332006465-d36f278f-247c-4045-a969-7e21fc44b520](https://github.com/karuniya2005/Project-Based-Experiment/assets/161425769/77c43ad4-7f51-474d-9018-cc5a0beeee83)
+
 **Output Timing Waveform**
 
+![332007437-62636ae7-45c4-45c3-adf7-444c4ec349b5](https://github.com/karuniya2005/Project-Based-Experiment/assets/161425769/2452338d-3c0d-49c5-b288-3f0649d49232)
+
+
 **Result:**
+ Thus the program executed successfully.
 
 
 
